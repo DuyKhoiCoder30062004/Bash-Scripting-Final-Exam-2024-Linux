@@ -46,11 +46,13 @@ xây hàm xoasach() theo:
  - Lấy thông tin ngày tháng tại thời điểm xóa, gắn vào đầu thông tin của quyển sách và chép dữ liệu này vào cuối file lichsu. File lichsu đã được tạo ra và cố định. Dữ liệu của file lichsu trong trường hợp xóa 2 file BaoMatMang_TranVanB_2009_NXBTre và ComputerNetwork_Albert_2000_Spring có dạng:
 
 Tue May 7 21:02:07 -02 2024 BaoMatMang_TranVanB_2009_NXBTre
+
 Tue May 7 21:02:43 -02 2024 ComputerNetwork_Albert_2000_Spring
 
 Hàm khi chạy trong chương trình Shell : xoasach $1 $2
 
 <<! CODING SECTION >>
+
 Câu 1:
 
 Câu 2:
