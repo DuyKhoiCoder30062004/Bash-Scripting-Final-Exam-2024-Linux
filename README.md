@@ -5,7 +5,7 @@ It is a part of my Final Exam at Saigon University.
 
 Đây là Yêu cầu của Đề Bài:
 Mô tả bài toán:
-Một hệ thống thư viện, sau khi đã só hóa các quyển sách trong thư viện đã thu được các quyển sách dưới dạng tập tin và được đặt tên theo cấu trúc như sau: <Tên sách_Ten Tác giả_Năm xuất bản_Nhà xuất bản>.Ví dụ: OperatingSystem_Silberchartz_2019_Spring. Để tự đọng hóa việc quản lý, người ta dugnf Bash Shell Scropt để thực hiện các yêu cầu quản lý. Đoạn Script khi được gọi sẽ có những lựa chọn như sau:
+Một hệ thống thư viện, sau khi đã só hóa các quyển sách trong thư viện đã thu được các quyển sách dưới dạng tập tin và được đặt tên theo cấu trúc như sau: <Tên sách_Ten Tác giả_Năm xuất bản_Nhà xuất bản>.Ví dụ: OperatingSystem_Silberchartz_2019_Spring. Để tự đọng hóa việc quản lý, người ta dùng Bash Shell Scropt để thực hiện các yêu cầu quản lý. Đoạn Script khi được gọi sẽ có những lựa chọn như sau:
 
 Hãy lựa chọn tính năng:
 1. Liệt kê danh mục sách và ghi vào file lưu trữ.
